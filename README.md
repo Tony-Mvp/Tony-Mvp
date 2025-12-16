@@ -29,9 +29,9 @@
   <a href="https://instagram.com/anthxny.011" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/j4v13rq_62500" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
+    <p>Discord: j4v13rq_62500</p>
+ 
   <a href="mailto:anthonyjavier944@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
