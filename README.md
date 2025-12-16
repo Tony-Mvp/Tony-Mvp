@@ -10,39 +10,23 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
 </div>
 
 <br />
 
 <!-- ======= Social Badges ======= -->
 <div align="center">
-  <a href="https://linkedin.com/in/tony-mvp">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://twitter.com/tu_usuario">
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://twitter.com/tony-mvp">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://discord.gg/tu_discord">
+    <img src="https://img.shields.io/static/v1?label=&message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://discord.gg/your-discord">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://twitch.tv/tony-mvp">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://dev.to/tony-mvp">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://instagram.com/tu_usuario">
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -59,11 +43,4 @@
 <!-- ======= Pacman Contribution Graph ======= -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tony-Mvp/Tony-Mvp/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
-</div>
-
-<br />
-
-<!-- ======= Footer / Call to Action ======= -->
-<div align="center">
-  <p>Thanks for visiting my profile! 🚀</p>
 </div>
