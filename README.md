@@ -4,15 +4,13 @@
 
 <!-- ======= Skills Icons ======= -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
+  <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="C#" />
 </div>
 
 <br />
@@ -34,8 +32,8 @@
 
 <!-- ======= Streak & Trophy Graph ======= -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tony-Mvp&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=Tony-Mvp&theme=dracula&column=-1" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Tony-Mvp&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Tony-Mvp&theme=dracula&column=-1" height="150" alt="Trophy graph" />
 </div>
 
 <br />
